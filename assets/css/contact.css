@@ -1,0 +1,51 @@
+
+
+.contact {
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom:10px;
+}
+
+.divider4 {
+    width:300px;
+    margin:20px auto;
+    border:1px solid rgb(0, 0, 0);
+}
+
+.divider5 {
+    width:400px;
+    margin:20px auto;
+    border:1px solid rgb(211, 211, 211);
+}
+
+.title-contact {
+    font-size:36px;
+    color:rgba(0, 0, 0, 0.445);
+    padding:20px;
+}
+
+
+input {
+    border:none;
+    width:400px;
+    padding: 15px 35px 15px 35px;
+    font-size:20px;
+}
+.submit {
+    background-color: #20C997;
+    color:white;
+}
+
+.submit:hover {
+    background-color: white;
+    color:#20C997;
+    border:#20C997 0px solid;
+}
+
+input:hover {
+    box-shadow: 3px 0px 45px #20C997;
+}
+
+input:focus{
+    background-color: #cee7e0;
+}

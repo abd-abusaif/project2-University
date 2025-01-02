@@ -1,0 +1,75 @@
+
+
+.end-page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    background-color: #2c3e50;
+    color: #ffffff;
+    padding: 40px 20px;
+    text-align: center;
+    gap: 20px;
+  }
+  
+  /* Individual Section Styling */
+  .end {
+    flex: 1;
+    min-width: 200px;
+  }
+  
+  .end h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    color: #ffffff;
+  }
+  
+  .end p {
+    font-size: 14px;
+    line-height: 1.6;
+    color: #dcdcdc;
+  }
+  
+  .end a {
+    color: #1abc9c;
+    text-decoration: none;
+  }
+  
+  
+
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 10px;
+  }
+  
+  .social-icons a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 20px;
+    transition: all 0.3s ease;
+    border: 1px white solid;
+  }
+  
+  .social-icons a:hover {
+    background-color: white;
+    color: #000000;
+  }
+  
+
+    .end {
+      text-align: center;
+    }
+  
+    .social-icons {
+      justify-content: center;
+    }
+  
